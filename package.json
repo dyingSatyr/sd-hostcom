@@ -1,0 +1,23 @@
+{
+  "name": "sd-hostcom",
+  "version": "1.0.0",
+  "description": "Skidata Host Communication Interface Test App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyingSatyr/sd-hostcom.git"
+  },
+  "author": "Boris Grabovac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyingSatyr/sd-hostcom/issues"
+  },
+  "homepage": "https://github.com/dyingSatyr/sd-hostcom#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+session request:
+    message = message ground (3N) + message version (2N)
+
+
+Message group = PROTOCOL
+Protocol = msg group 0 - version 1
+
+
+
+Manual open = Device Command (003 - 08) 
+device number (n4) explanation (c25)

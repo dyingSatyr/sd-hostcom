@@ -1,2 +1,4 @@
 .gitconfig
 .env
+/node_modules
+/certificates
